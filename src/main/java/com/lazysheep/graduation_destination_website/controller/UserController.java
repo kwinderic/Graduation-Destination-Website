@@ -19,7 +19,6 @@ import org.apache.ibatis.javassist.expr.NewArray;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.DigestUtils;
 import org.springframework.web.bind.annotation.*;
-import sun.plugin.javascript.navig.Array;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.*;
